@@ -1,20 +1,27 @@
 {
-  "main.css": "/static/css/main.e8e02cf5.chunk.css",
-  "main.js": "/static/js/main.0e1be380.chunk.js",
-  "main.js.map": "/static/js/main.0e1be380.chunk.js.map",
-  "static/js/1.b6bea997.chunk.js": "/static/js/1.b6bea997.chunk.js",
-  "static/js/1.b6bea997.chunk.js.map": "/static/js/1.b6bea997.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/hovedlogo.svg": "/static/media/hovedlogo.79600773.svg",
-  "static/media/unn_logo.svg": "/static/media/unn_logo.53772bee.svg",
-  "static/media/bh1.jpg": "/static/media/bh1.c42961b0.jpg",
-  "static/media/bh2.jpg": "/static/media/bh2.d61d9c22.jpg",
-  "static/media/bh3.jpg": "/static/media/bh3.13f2363b.jpg",
-  "static/media/bh4.jpg": "/static/media/bh4.308413ae.jpg",
-  "static/media/fms_logo.svg": "/static/media/fms_logo.bdc791a2.svg",
-  "static/css/main.e8e02cf5.chunk.css.map": "/static/css/main.e8e02cf5.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.63781d9b1089d387c55d6aff6d1f500a.js": "/precache-manifest.63781d9b1089d387c55d6aff6d1f500a.js",
-  "service-worker.js": "/service-worker.js"
+  "files": {
+    "main.css": "/static/css/main.64c862ae.chunk.css",
+    "main.js": "/static/js/main.9f4b65e6.chunk.js",
+    "main.js.map": "/static/js/main.9f4b65e6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e7f577ee.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e7f577ee.js.map",
+    "static/js/2.038adc0f.chunk.js": "/static/js/2.038adc0f.chunk.js",
+    "static/js/2.038adc0f.chunk.js.map": "/static/js/2.038adc0f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.64c862ae.chunk.css.map": "/static/css/main.64c862ae.chunk.css.map",
+    "static/js/2.038adc0f.chunk.js.LICENSE.txt": "/static/js/2.038adc0f.chunk.js.LICENSE.txt",
+    "static/media/bh1.bb7df885.jpg": "/static/media/bh1.bb7df885.jpg",
+    "static/media/bh2.26428e92.jpg": "/static/media/bh2.26428e92.jpg",
+    "static/media/bh3.e8e87ccc.jpg": "/static/media/bh3.e8e87ccc.jpg",
+    "static/media/bh4.3da8cd25.jpg": "/static/media/bh4.3da8cd25.jpg",
+    "static/media/fms_logo.a567319b.svg": "/static/media/fms_logo.a567319b.svg",
+    "static/media/hovedlogo.94e7be08.svg": "/static/media/hovedlogo.94e7be08.svg",
+    "static/media/unn_logo.bd917c2a.svg": "/static/media/unn_logo.bd917c2a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7f577ee.js",
+    "static/js/2.038adc0f.chunk.js",
+    "static/css/main.64c862ae.chunk.css",
+    "static/js/main.9f4b65e6.chunk.js"
+  ]
 }
